@@ -1,2 +1,2 @@
-# Visualizing-Housing-Market-Trends
-Visualizing Housing Market Trends: An Analysis of sale Prices and Features using Tableau and HTML
+# Visualizing-Housing-Market-Trends:
+An Analysis of sale Prices and Features using Tableau and HTML
